@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RondomQuoteGenerator</string>
+    <string name="quote">Quote</string>
+    <string name="points">.....................</string>
+    <string name="easy_tuto">Easy tuto</string>
+</resources>
