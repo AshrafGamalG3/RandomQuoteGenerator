@@ -17,7 +17,7 @@ This Android application fetches random quotes from a remote API and displays th
   - Room Persistence Library for local data storage
   - ViewModel and LiveData for managing UI-related data in a lifecycle-conscious way
   - Coroutines for managing asynchronous operations
-  - 
+  
 ## video
 
 
